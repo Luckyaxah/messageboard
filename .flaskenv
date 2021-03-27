@@ -1,0 +1,2 @@
+FLASK_APP=messageboard
+FLASK_ENV=development
